@@ -43,9 +43,7 @@
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leobcss&theme=radical&row=1&margin-w=5" alt="leobcss" /></a></p>
 
-<a href="https://github.com/leobcss/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=radical" />
-</a>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=radical&show_owner)](https://github.com/leobcss/github-readme-stats) -->
 
 </body>
 
