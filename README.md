@@ -1,9 +1,8 @@
-<head> 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </head>      
 
 <body> 
-
 <h1>Olá, me chamo Leonardo :smile::wave:</h1>
 <p>Focado na resolução de problemas. Atualmente empenhado em conseguir minha primeira oportunidade como Dev Jr.
 
