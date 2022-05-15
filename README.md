@@ -28,13 +28,12 @@ Sinta-se à vontade em me chamar para tirar dúvidas e conversar.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobcss&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="leobcss" /></p>
 
-<i class="devicon-javascript-plain colored"></i>
-
-<i class="devicon-html5-plain colored"></i>
-
-<i class="devicon-css3-plain colored"></i>          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobcss&layout=compact&theme=midnight-purple)](https://github.com/leobcss/github-readme-stats)
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-css3-plain colored"></i>          
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobcss&theme=midnight-purple)](https://github.com/leobcss/github-readme-stats)
 
