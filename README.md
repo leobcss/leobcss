@@ -39,7 +39,7 @@ Sinta-se à vontade em me chamar para tirar dúvidas e conversar.</p>
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leobcss&theme=midnight-purple&row=1&margin-w=5" alt="leobcss" /></a></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=midnight-purple&show_owner)](https://github.com/leobcss/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=midnight-purple&show_owner)](https://github.com/leobcss/github-readme-stats) -->
 
 </body>
 
