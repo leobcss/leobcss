@@ -1,10 +1,10 @@
 <head> 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 </head>      
 
 <body> 
 
-<h1>Olá, me chamo Leonardo :smile: :wave:</h1>
+<h1>Olá, me chamo Leonardo :smile::wave:</h1>
 <p>Focado na resolução de problemas. Atualmente empenhado em conseguir minha primeira oportunidade como Dev Jr.
 
 <ul>
@@ -31,7 +31,7 @@ Sinta-se à vontade em me chamar para tirar dúvidas e conversar.</p>
 
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-html5-plain colored"></i>
-<i class="devicon-css3-plain colored"></i>
+<i class="devicon-css3-plain colored"></i>          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobcss&layout=compact&theme=midnight-purple)](https://github.com/leobcss/github-readme-stats)
 
@@ -39,7 +39,7 @@ Sinta-se à vontade em me chamar para tirar dúvidas e conversar.</p>
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leobcss&theme=midnight-purple&row=1&margin-w=5" alt="leobcss" /></a></p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=radical&show_owner)](https://github.com/leobcss/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobcss&repo=github-readme-stats&theme=midnight-purple&show_owner)](https://github.com/leobcss/github-readme-stats)
 
 </body>
 
